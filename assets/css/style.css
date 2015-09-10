@@ -152,3 +152,21 @@ height: 170px;
 .nano{
 	
 }
+#port{
+	width: 1026px;
+	
+	margin-left: 130px;
+	font:Arial, Helvetica, sans-serif;
+	
+}
+.port-left{
+	text-align: justify;
+	float: left;
+	width: 50%;
+}
+
+.port-right{
+	float: right;
+	width: 50%;
+	height: 70%;
+}
