@@ -65,4 +65,19 @@ font-style: italic;
   text-decoration: overline underline ;
 
 }
+
+#spacing-my-divs{
+	background: #F3F2ED;
+	height: 30px;
+}
+
+.content-a{
+	margin-left: 10%
+  
+}
+.content-b{
+	width: 1026px;
+	text-align:justify;
+	margin-left: 130px;
+  
 }
