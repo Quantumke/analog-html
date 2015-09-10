@@ -194,3 +194,12 @@ height: 170px;
 	width: 50%;
 	
 }
+#ad{
+	height: 150px;
+	background: #7AFF4C;
+}
+.adtext{
+	text-align: center;
+	vertical-align: center;
+	line-height: 30px;
+}
