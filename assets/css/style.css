@@ -106,3 +106,45 @@ z-index: 100;
     text-align: justify;
 
 }
+
+#three-items{
+width: 1026px;
+margin-left: 130px;
+}
+
+.item-one{
+
+}
+.item-one-a{
+
+}
+.item-one-b{
+	margin-left: 460px;
+
+}
+
+.item-one-c{
+	float: right;
+
+}
+
+#three-items-text{
+width: 1026px;
+margin-left: 130px;
+}
+
+.item-one-text{
+
+}
+.item-one-a-text{
+width: 20px;
+}
+.item-one-b-text{
+	margin-left: 400px;
+
+}
+
+.item-one-c-text{
+	margin-left: 358px;
+
+}
