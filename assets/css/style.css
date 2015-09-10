@@ -211,3 +211,10 @@ width: 1026px;
 	height: 100px;
 	text-align: justify;
 }
+
+#copyright{
+	height: 100px;
+	background: #343539;
+	color: #E5C230;
+	text-align: center;
+}
