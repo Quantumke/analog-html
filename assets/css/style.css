@@ -157,6 +157,7 @@ height: 170px;
 	
 	margin-left: 130px;
 	font:Arial, Helvetica, sans-serif;
+	height: 350px;
 	
 }
 .port-left{
@@ -168,5 +169,5 @@ height: 170px;
 .port-right{
 	float: right;
 	width: 50%;
-	height: 70%;
+	height: 100%;
 }
