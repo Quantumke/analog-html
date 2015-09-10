@@ -157,9 +157,18 @@ height: 170px;
 	
 	margin-left: 130px;
 	font:Arial, Helvetica, sans-serif;
-	height: 350px;
+	height: 400px;
 	
 }
+#port-2{
+	width: 1026px;
+	
+	margin-left: 130px;
+	font:Arial, Helvetica, sans-serif;
+	height: 400px;
+	
+}
+
 .port-left{
 	text-align: justify;
 	float: left;
@@ -169,5 +178,19 @@ height: 170px;
 .port-right{
 	float: right;
 	width: 50%;
-	height: 100%;
+	height:90%;
+}
+.port-left-2{
+	text-align: justify;
+	float: right;
+	width: 50%;
+	
+	height:90%;
+}
+
+.port-right-2{
+	float: left;
+	text-align: jufloat: right;
+	width: 50%;
+	
 }
