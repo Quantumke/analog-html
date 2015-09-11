@@ -32,9 +32,11 @@ font-family: Verdana, Arial, Helvetica, sans-serif
 }
 .text-right{
 	color: #ABABAB;
+	font-family: Verdana, Arial, Helvetica, sans-serif
 }
 .text-right1{
 	color: #FEFEFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif
 }
 
 #slider{
@@ -155,6 +157,7 @@ height: 210px;
     
    }
 .nano{
+	font-family: Verdana, Arial, Helvetica, sans-serif
 	
 }
 #port{
