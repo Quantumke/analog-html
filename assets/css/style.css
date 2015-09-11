@@ -232,3 +232,14 @@ width: 1026px;
 	background: #F3F2ED;
 }
 .font-text {font-family: Verdana, Arial, Helvetica, sans-serif}
+
+
+
+#top , #about ,#port , #ad , #copyright, #slider, #spacing-my-divs,#content , #three-items , #port-2 , #text-p, #footer {
+	box-sizing:border-box;
+	padding: block;
+
+}
+div{
+	display: block;
+}
